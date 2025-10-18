@@ -7,7 +7,7 @@ My SQL solutions for LeetCode problems, organized by difficulty and topic.
 ## 🟢 Easy
 | # | Problem | Solution |
 |---|----------|-----------|
-| 175 | Combine Two Tables | [View](./Easy/175_Combine_Two_Tables.sql) |
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [View](Easy/1757.%20Recyclable%20and20%Low%20Fat20%Products.sql) |
 | 176 | Second Highest Salary | [View](./Easy/176_Second_Highest_Salary.sql) |
 
 ## 🟡 Medium

@@ -7,7 +7,7 @@ My SQL solutions for LeetCode problems, organized by difficulty and topic.
 ## 🟢 Easy
 | # | Problem | Solution |
 |---|----------|-----------|
-| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [View][(Easy/1757.%20Recyclable%20and20%Low%20Fat20%Products.sql)](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/1740983973/)|
+| 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [View](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/1740983973/)|
 | 176 | Second Highest Salary | [View](./Easy/176_Second_Highest_Salary.sql) |
 
 ## 🟡 Medium

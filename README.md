@@ -8,7 +8,7 @@ My SQL solutions for LeetCode problems, organized by difficulty and topic.
 | # | Problem | Solution |
 |---|----------|-----------|
 | 1757 | [Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) | [View](https://leetcode.com/problems/recyclable-and-low-fat-products/submissions/1740983973/)|
-| 176 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/) | [View]((https://leetcode.com/problems/triangle-judgement/submissions/1794477110))|
+| 176 | [Triangle Judgement](https://leetcode.com/problems/triangle-judgement/description/) | [View](https://leetcode.com/problems/triangle-judgement/submissions/1794477110)|
 
 ## 🟡 Medium
 | # | Problem | Solution |
